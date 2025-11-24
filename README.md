@@ -52,10 +52,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AyatErrahman&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 ---
 
-### ⭐ Feel free to explore my repositories — always building, always learning.
+### ⭐ Feel free to explore my repositories  always building, always learning.
 
