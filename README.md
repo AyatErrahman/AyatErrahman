@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aya NACER</h1>
+<h1 align="center">Hi 👋, I'm Ayat Errahmane NACER</h1>
 
 <h3 align="center">Computer Science Student | AI/ML Learner | Web Developer | Tech Enthusiast</h3>
 
