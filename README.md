@@ -9,9 +9,9 @@
 - 📚 I’m learning **Machine Learning, Deep Learning, NLP**, and **Cloud**  
 - 🎨 Exploring **UI/UX**, **Graphic Design**, and **3D Design** on the side  
 - 💼 My portfolio: *coming soon…*  
-- 🎯 **Ultimate Goal:** Becoming skilled enough to publish impactful research & pursue a PhD at MIT  
+- 🎯 **Ultimate Goal:** Becoming skilled enough to publish impactful research   
 - 📩 How to reach me: **ayaterrahmane.nacer@ensia.edu.dz | ayanacer00@gmail.com**  
-- ⚡ Fun fact: **Coffee is my superpower ☕ + I speak multiple languages **
+- ⚡ Fun fact: **Coffee is my superpower ☕  **
 
 ---
 
