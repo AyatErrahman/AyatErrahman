@@ -37,17 +37,21 @@
 
 ## `~$ owlpost --connect`
 
+```
+  Send your owl to any of these perches — replies arrive by morning.
+```
+
 <p align="left">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Owl_Post-8B6914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A3728" />
+    <img src="https://img.shields.io/badge/🦉_LinkedIn-Owl_Post-C0A060?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C1810" />
   </a>
   &nbsp;
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-The_Common_Room-8B6914?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=4A3728" />
+    <img src="https://img.shields.io/badge/🏰_Portfolio-The_Common_Room-C0A060?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=2C1810" />
   </a>
   &nbsp;
   <a href="mailto:ayanacer00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_a_Scroll-8B6914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A3728" />
+    <img src="https://img.shields.io/badge/📜_Gmail-Send_a_Scroll-C0A060?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C1810" />
   </a>
 </p>
 
@@ -55,58 +59,74 @@
 
 ## `~$ ls spellbook/`
 
-> *Every language a spell, every tool a wand.*
+```
+  "Every great wizard was once a student who refused to stop learning."
+  Below lies the Spellbook — each tool, a mastered incantation.
+```
 
-**Languages**
+**✦ Incantations — Languages**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Alohomora-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Lumos-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-Expelliarmus-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-Incendio-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Aguamenti-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+| Spell | Incantation | Mastery |
+|-------|-------------|---------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | *Alohomora* — unlocks any problem | `█████████░` |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | *Lumos* — illuminates the web | `████████░░` |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | *Expelliarmus* — commands the machine | `███████░░░` |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | *Incendio* — sparks every page | `█████████░` |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | *Aguamenti* — flows with style | `████████░░` |
 
-**Frameworks & Tools**
+**✦ Enchanted Artefacts — Frameworks & Tools**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-Wingardium_Leviosa-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Revelio-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Accio_Code-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Oculus_Reparo-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Legilimens-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Nox-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+| Artefact | Enchantment |
+|----------|-------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | *Wingardium Leviosa* — lifts UIs to life |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | *Revelio* — reveals every change |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | *Accio Code* — summons all repositories |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | *Oculus Reparo* — repairs broken data |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | *Legilimens* — reads the mind of a database |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | *Nox* — masters the darkness of the terminal |
 
-**Design**
+**✦ Dark Arts of Design**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-Engorgio-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-Obliviate-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-Transfiguration-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
-</p>
+| Grimoire | Power |
+|----------|-------|
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | *Engorgio* — grows ideas into interfaces |
+| ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) | *Obliviate* — transforms any image |
+| ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) | *Transfiguration* — turns nothing into art |
 
 ---
 
 ## `~$ git log --stats`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyatErrahman&show_icons=true&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+```
+  "The magic is in the commits. Every push, a step closer to mastery."
+```
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyatErrahman&theme=tokyonight&border=4A3728&ring=C0A060&fire=C0A060&currStreakLabel=C0A060" alt="Streak Stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyatErrahman&show_icons=true&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AyatErrahman&theme=tokyonight&border=4A3728&ring=C0A060&fire=C0A060&currStreakLabel=C0A060&background=0d1117" alt="Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatErrahman&layout=compact&theme=tokyonight&title_color=C0A060&border_color=4A3728&bg_color=0d1117" alt="Top Languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
- ✦ ·  · ✦  ·   ✦   ·  ✦ ·   ·   ✦  · ✦  ·   ✦   ·  ✦
-      "Feel free to explore my repositories —
-         always building, always learning."
- ✦ ·  · ✦  ·   ✦   ·  ✦ ·   ·   ✦  · ✦  ·   ✦   ·  ✦
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Whether you come back by page or by the big screen,  ║
+║    Hogwarts will always be there to welcome you home."   ║
+║                                                          ║
+║       ✦  Feel free to explore my repositories  ✦        ║
+║           Always building. Always learning.              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AyatErrahman&color=C0A060&style=flat-square&label=Wizards+who+visited)
 
 </div>
