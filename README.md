@@ -20,10 +20,6 @@
 
 ## 📜 About
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ```yaml
 Name:   Ayat Errahmane Nacer
 House:  Ravenclaw — curious, creative, relentless
@@ -37,16 +33,6 @@ Spell:  Currently casting → AI projects & full-stack web apps
 - 🏰 **Portfolio** — *coming soon…*
 - 📖 **Ultimate spell** — Publish impactful research
 - ☕ **Fun fact** — Coffee is my superpower, the Potion of Infinite Focus
-
-</td>
-<td width="40%" valign="center" align="center">
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0" height="0" alt="" />
-<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="220" alt="magic" />
-
-</td>
-</tr>
-</table>
 
 ---
 
