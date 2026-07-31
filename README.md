@@ -95,6 +95,28 @@
 
 ---
 
+## `~$ ls pensieve/` — Featured Projects
+
+```
+  "One simply borrows a memory, streams it back, and there it is —
+   swirling in a stone basin for the world to study."
+```
+
+<div align="center">
+
+<a href="https://github.com/AyatErrahman/REPO_NAME_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyatErrahman&repo=REPO_NAME_ONE&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117" />
+</a>
+<a href="https://github.com/AyatErrahman/REPO_NAME_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyatErrahman&repo=REPO_NAME_TWO&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117" />
+</a>
+
+</div>
+
+> *Swap `REPO_NAME_ONE` / `REPO_NAME_TWO` for your real repositories to pin your best work here.*
+
+---
+
 ## `~$ git log --stats`
 
 ```
@@ -103,11 +125,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyatErrahman&show_icons=true&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AyatErrahman&theme=tokyonight&border=4A3728&ring=C0A060&fire=C0A060&currStreakLabel=C0A060&background=0d1117" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AyatErrahman&show_icons=true&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AyatErrahman&theme=tokyonight&border=4A3728&ring=C0A060&fire=C0A060&currStreakLabel=C0A060&background=0d1117" alt="Streak Stats" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatErrahman&layout=compact&theme=tokyonight&title_color=C0A060&border_color=4A3728&bg_color=0d1117" alt="Top Languages" />
+
+<img src="https://github-readme-trophies.vercel.app/?username=AyatErrahman&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&background=0d1117&no-frame=true&row=1&column=6" alt="Trophies" />
+
+</div>
+
+---
+
+## `~$ marauders-map --activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyatErrahman&theme=tokyo-night&bg_color=0d1117&color=C0A060&line=C0A060&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -116,15 +149,15 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "Whether you come back by page or by the big screen,  ║
-║    Hogwarts will always be there to welcome you home."   ║
-║                                                          ║
-║       ✦  Feel free to explore my repositories  ✦        ║
-║           Always building. Always learning.              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    "Whether you come back by page or by the big screen,     ║
+║     Hogwarts will always be there to welcome you home."     ║
+║                                                              ║
+║          ✦  Feel free to explore my repositories  ✦         ║
+║              Always building. Always learning.               ║
+║                                                              ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AyatErrahman&color=C0A060&style=flat-square&label=Wizards+who+visited)
