@@ -1,6 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,50:4A3728,100:C0A060&height=180&section=header&text=Welcome%20to%20my%20Lair&fontSize=42&fontColor=F5E6C8&fontAlignY=38&animation=fadeIn&desc=A%20witch%20who%20codes%20by%20candlelight&descAlignY=58&descSize=16" alt="Header Banner" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=C0A060&center=true&vCenter=true&width=600&lines=Ayat+Errahmane+Nacer;Witch+of+the+Digital+Arts;Always+building%2C+always+learning." alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/xUOxfjsW6Wnfp2gDMQ/giphy.gif" width="160" alt="flying broom" />
 
 ```
  ✦ ·  · ✦  ·   ✦   ·  ✦ ·   ·   ✦  · ✦  ·   ✦   ·  ✦
@@ -17,6 +21,8 @@
 ---
 
 ## `~$ cat about.txt`
+
+<img src="https://media.giphy.com/media/kjSFrKR9DK7EM/giphy.gif" width="140" align="right" alt="sorting hat" />
 
 ```
  Name   : Ayat Errahmane Nacer
@@ -58,6 +64,10 @@
 ---
 
 ## `~$ ls spellbook/`
+
+<div align="center">
+<img src="https://media.giphy.com/media/rMdcYnZC1Rx20/giphy.gif" width="200" alt="wand casting spell" />
+</div>
 
 ```
   "Every great wizard was once a student who refused to stop learning."
@@ -146,6 +156,23 @@
 
 ---
 
+## `~$ expecto contributum` — The Contribution Serpent
+
+```
+  A basilisk stirs beneath the floorboards of my commit history,
+  slithering through every square it can devour.
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AyatErrahman/AyatErrahman/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+
+</div>
+
+> ⚡ **This one moves for real.** It's powered by a GitHub Action that reads your contribution graph and animates a snake eating it, regenerated automatically on every push. Setup lives in `snake.yml` below — see the note at the end of this file.
+
+---
+
 <div align="center">
 
 ```
@@ -162,4 +189,9 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AyatErrahman&color=C0A060&style=flat-square&label=Wizards+who+visited)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0A060,50:4A3728,100:2C1810&height=120&section=footer" alt="Footer Banner" width="100%"/>
+
 </div>
+
+---
+
