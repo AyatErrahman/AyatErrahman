@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,50:4A3728,100:C0A060&height=180&section=header&text=Welcome%20to%20my%20Lair&fontSize=42&fontColor=F5E6C8&fontAlignY=38&animation=fadeIn&desc=A%20witch%20who%20codes%20by%20candlelight&descAlignY=58&descSize=16" alt="Header Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,50:4A3728,100:C0A060&height=160&section=header&text=Ayat%20Errahmane%20Nacer&fontSize=38&fontColor=F5E6C8&fontAlignY=38&animation=fadeIn&desc=AI%20Engineering%20Student%20%C2%B7%20ML%20%C2%B7%20Full-Stack&descAlignY=58&descSize=15" alt="Header Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=C0A060&center=true&vCenter=true&width=600&lines=Ayat+Errahmane+Nacer;Witch+of+the+Digital+Arts;Always+building%2C+always+learning." alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/xUOxfjsW6Wnfp2gDMQ/giphy.gif" width="160" alt="flying broom" />
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=22&pause=1200&color=C0A060&center=true&vCenter=true&width=560&lines=Ravenclaw+%E2%80%94+ENSIA%2C+Algiers;Building+ML+pipelines+%26+full-stack+apps;Arabic+NLP+%2B+Conversational+AI+enthusiast" alt="Typing SVG" />
 
 ```
- ✦ ·  · ✦  ·   ✦   ·  ✦ ·   ·   ✦  · ✦  ·   ✦   ·  ✦
+✦ ·  · ✦  ·   ✦   ·  ✦ ·   ·   ✦  · ✦  ·   ✦   ·  ✦
 ```
 
 *"It is our choices that show what we truly are, far more than our abilities."*
-
-```
- ✦ ·  · ✦  ·   ✦   ·  ✦ ·   ·   ✦  · ✦  ·   ✦   ·  ✦
-```
 
 </div>
 
@@ -22,42 +16,37 @@
 
 ## `~$ cat about.txt`
 
-<img src="https://media.giphy.com/media/kjSFrKR9DK7EM/giphy.gif" width="140" align="right" alt="sorting hat" />
-
 ```
- Name   : Ayat Errahmane Nacer
- House  : Ravenclaw  (curious, creative, relentless)
- Year   : Computer Science Student
- Wand   : AI/ML  •  Full-Stack Web  •  UI/UX
- Spell  : Currently casting  →  AI projects & full-stack web apps
+ Name    : Ayat Errahmane Nacer
+ House   : Ravenclaw — curious, creative, relentless
+ School  : ENSIA — National Higher School of Artificial Intelligence
+ Year    : 3rd year, AI Engineering (5-year programme) · Grad 2028
+ Base    : Algiers, Algeria
+ Focus   : Machine Learning · Deep Learning · Time Series · Full-Stack Web
+ Role    : HR Co-Manager, ETC Club ENSIA
 ```
 
-- **Studying** &nbsp;Machine Learning · Deep Learning · NLP · Cloud
-- **Side quests** &nbsp;UI/UX · Graphic Design · 3D Design
-- **Portfolio** &nbsp;*coming soon…*
-- **Ultimate spell** &nbsp;Publish impactful research
-- **Owl post** &nbsp;ayaterrahmane.nacer@ensia.edu.dz · ayanacer00@gmail.com
-- **Fun fact** &nbsp;Coffee is my superpower — the Potion of Infinite Focus
+- 🔭 **Currently** — deepening Deep Learning / NLP coursework and shipping full-stack AI tools
+- 🌱 **Exploring** — Arabic NLP, conversational AI, and AI safety research
+- 🎯 **Goal** — publish research at the intersection of AI and real-world impact
+- 🎨 **Side quests** — UI/UX, graphic design, 3D design
+- ⚡ **Fun fact** — coffee is my Potion of Infinite Focus
 
 ---
 
 ## `~$ owlpost --connect`
 
-```
-  Send your owl to any of these perches — replies arrive by morning.
-```
-
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ayat-errahmane-nacer-43227a2a0">
     <img src="https://img.shields.io/badge/🦉_LinkedIn-Owl_Post-C0A060?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C1810" />
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/🏰_Portfolio-The_Common_Room-C0A060?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=2C1810" />
+  <a href="mailto:ayaterrahmane.nacer@ensia.edu.dz">
+    <img src="https://img.shields.io/badge/📜_Email-Send_a_Scroll-C0A060?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C1810" />
   </a>
   &nbsp;
-  <a href="mailto:ayanacer00@gmail.com">
-    <img src="https://img.shields.io/badge/📜_Gmail-Send_a_Scroll-C0A060?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C1810" />
+  <a href="https://github.com/AyatErrahman">
+    <img src="https://img.shields.io/badge/🏰_GitHub-The_Common_Room-C0A060?style=for-the-badge&logo=github&logoColor=white&labelColor=2C1810" />
   </a>
 </p>
 
@@ -65,103 +54,77 @@
 
 ## `~$ ls spellbook/`
 
-<div align="center">
-<img src="https://media.giphy.com/media/rMdcYnZC1Rx20/giphy.gif" width="200" alt="wand casting spell" />
-</div>
+**✦ Languages**
 
-```
-  "Every great wizard was once a student who refused to stop learning."
-  Below lies the Spellbook — each tool, a mastered incantation.
-```
+![Python](https://img.shields.io/badge/Python-2C1810?style=for-the-badge&logo=python&logoColor=C0A060)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C1810?style=for-the-badge&logo=javascript&logoColor=C0A060)
+![SQL](https://img.shields.io/badge/SQL-2C1810?style=for-the-badge&logo=postgresql&logoColor=C0A060)
+![C](https://img.shields.io/badge/C-2C1810?style=for-the-badge&logo=c&logoColor=C0A060)
+![HTML5](https://img.shields.io/badge/HTML5-2C1810?style=for-the-badge&logo=html5&logoColor=C0A060)
+![CSS3](https://img.shields.io/badge/CSS3-2C1810?style=for-the-badge&logo=css3&logoColor=C0A060)
 
-**✦ Incantations — Languages**
+**✦ AI / ML**
 
-| Spell | Incantation | Mastery |
-|-------|-------------|---------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | *Alohomora* — unlocks any problem | `█████████░` |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | *Lumos* — illuminates the web | `████████░░` |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | *Expelliarmus* — commands the machine | `███████░░░` |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | *Incendio* — sparks every page | `█████████░` |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | *Aguamenti* — flows with style | `████████░░` |
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2C1810?style=for-the-badge&logo=tensorflow&logoColor=C0A060)
+![PyTorch](https://img.shields.io/badge/PyTorch-2C1810?style=for-the-badge&logo=pytorch&logoColor=C0A060)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2C1810?style=for-the-badge&logo=scikitlearn&logoColor=C0A060)
+![Pandas](https://img.shields.io/badge/Pandas-2C1810?style=for-the-badge&logo=pandas&logoColor=C0A060)
+![NumPy](https://img.shields.io/badge/NumPy-2C1810?style=for-the-badge&logo=numpy&logoColor=C0A060)
 
-**✦ Enchanted Artefacts — Frameworks & Tools**
+**✦ Web & Data**
 
-| Artefact | Enchantment |
-|----------|-------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | *Wingardium Leviosa* — lifts UIs to life |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | *Revelio* — reveals every change |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | *Accio Code* — summons all repositories |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | *Oculus Reparo* — repairs broken data |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | *Legilimens* — reads the mind of a database |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | *Nox* — masters the darkness of the terminal |
+![React](https://img.shields.io/badge/React-2C1810?style=for-the-badge&logo=react&logoColor=C0A060)
+![Next.js](https://img.shields.io/badge/Next.js-2C1810?style=for-the-badge&logo=nextdotjs&logoColor=C0A060)
+![Node.js](https://img.shields.io/badge/Node.js-2C1810?style=for-the-badge&logo=nodedotjs&logoColor=C0A060)
+![Flask](https://img.shields.io/badge/Flask-2C1810?style=for-the-badge&logo=flask&logoColor=C0A060)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C1810?style=for-the-badge&logo=postgresql&logoColor=C0A060)
+![MySQL](https://img.shields.io/badge/MySQL-2C1810?style=for-the-badge&logo=mysql&logoColor=C0A060)
 
-**✦ Dark Arts of Design**
+**✦ Tools & Design**
 
-| Grimoire | Power |
-|----------|-------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | *Engorgio* — grows ideas into interfaces |
-| ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) | *Obliviate* — transforms any image |
-| ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) | *Transfiguration* — turns nothing into art |
+![Git](https://img.shields.io/badge/Git-2C1810?style=for-the-badge&logo=git&logoColor=C0A060)
+![Linux](https://img.shields.io/badge/Linux-2C1810?style=for-the-badge&logo=linux&logoColor=C0A060)
+![Figma](https://img.shields.io/badge/Figma-2C1810?style=for-the-badge&logo=figma&logoColor=C0A060)
+![Photoshop](https://img.shields.io/badge/Photoshop-2C1810?style=for-the-badge&logo=adobephotoshop&logoColor=C0A060)
+![Illustrator](https://img.shields.io/badge/Illustrator-2C1810?style=for-the-badge&logo=adobeillustrator&logoColor=C0A060)
 
 ---
 
 ## `~$ ls pensieve/` — Featured Projects
 
-```
-  "One simply borrows a memory, streams it back, and there it is —
-   swirling in a stone basin for the world to study."
-```
+*Borrowed memories, streamed back for the world to study.*
 
-<div align="center">
+| Project | What it does | Stack |
+|---|---|---|
+| **[Appliance Classification from Power Consumption](https://github.com/AyatErrahman)** | End-to-end ML pipeline identifying household appliances from power-consumption time series, using spectral analysis and an LSTM classifier. | `Python` `TensorFlow` `scikit-learn` |
+| **[RainfallTSAC](https://github.com/AyatErrahman)** | Rainfall forecasting and pattern classification combining SARIMA statistical modelling with LSTM deep learning; spectral analysis surfaces seasonal cycles in multi-year meteorological data. | `Python` `SARIMA` `LSTM` |
+| **[AI Website Builder](https://github.com/AyatErrahman)** | Converts natural-language prompts into fully functional, responsive React components, cutting UI prototyping time dramatically. | `Next.js` `React` `Tailwind` `OpenAI API` |
+| **[Phishing Email Detector](https://github.com/AyatErrahman)** | ML classifier using NLP feature extraction and ensemble methods to flag phishing emails, with high precision/recall on benchmark data. | `Python` `scikit-learn` `NLP` |
+| **[Secure Student Face Recognition](https://github.com/AyatErrahman)** | CNN-based biometric authentication system for student verification, integrated with a backend for automated access control and attendance. | `Python` `OpenCV` `Deep Learning` |
+| **[DriveQuiz](https://github.com/AyatErrahman)** | Full-stack quiz platform for driving-theory exam prep, with dynamic question banks, scoring, and progress dashboards. | `React` `Node.js` `JavaScript` |
+| **[Stellar Classification ML](https://github.com/AyatErrahman)** | Multi-class classifier categorising stars, galaxies, and quasars from spectroscopic survey data. | `Python` `scikit-learn` |
+| **BookLink** | Social platform for book discovery and peer reviews. | `React` `Next.js` |
+| **Service Hub** | Multi-vendor service marketplace with auth and listing management. | `React` `Flask` |
+| **Mobile Backend API** | RESTful API with PostgreSQL, authentication, and full CRUD. | `Flask` `PostgreSQL` |
 
-<a href="https://github.com/AyatErrahman/REPO_NAME_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyatErrahman&repo=REPO_NAME_ONE&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AyatErrahman/REPO_NAME_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyatErrahman&repo=REPO_NAME_TWO&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117" />
-</a>
-
-</div>
-
-> *Swap `REPO_NAME_ONE` / `REPO_NAME_TWO` for your real repositories to pin your best work here.*
+> Replace the placeholder links above with your actual repo URLs once ready, and swap in `github-readme-stats` pin cards for any 2-3 you want visually featured.
 
 ---
 
 ## `~$ git log --stats`
 
-```
-  "The magic is in the commits. Every push, a step closer to mastery."
-```
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AyatErrahman&show_icons=true&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&bg_color=0d1117&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AyatErrahman&theme=tokyonight&border=4A3728&ring=C0A060&fire=C0A060&currStreakLabel=C0A060&background=0d1117" alt="Streak Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatErrahman&layout=compact&theme=tokyonight&title_color=C0A060&border_color=4A3728&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatErrahman&layout=compact&theme=tokyonight&title_color=C0A060&border_color=4A3728&bg_color=0d1117" alt="Top Languages" />
-
-<img src="https://github-readme-trophies.vercel.app/?username=AyatErrahman&theme=tokyonight&title_color=C0A060&icon_color=C0A060&border_color=4A3728&background=0d1117&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AyatErrahman&theme=tokyonight&border=4A3728&ring=C0A060&fire=C0A060&currStreakLabel=C0A060&background=0d1117" alt="Streak Stats" width="48%"/>
 
 </div>
 
 ---
 
-## `~$ marauders-map --activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyatErrahman&theme=tokyo-night&bg_color=0d1117&color=C0A060&line=C0A060&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## `~$ expecto contributum` — The Contribution Serpent
-
-```
-  A basilisk stirs beneath the floorboards of my commit history,
-  slithering through every square it can devour.
-```
+## `~$ expecto contributum`
 
 <div align="center">
 
@@ -169,29 +132,23 @@
 
 </div>
 
-> ⚡ **This one moves for real.** It's powered by a GitHub Action that reads your contribution graph and animates a snake eating it, regenerated automatically on every push. Setup lives in `snake.yml` below — see the note at the end of this file.
+> Powered by a GitHub Action that animates a snake eating your contribution graph, regenerated on every push. Setup lives in `snake.yml`.
 
 ---
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    "Whether you come back by page or by the big screen,     ║
-║     Hogwarts will always be there to welcome you home."     ║
-║                                                              ║
-║          ✦  Feel free to explore my repositories  ✦         ║
-║              Always building. Always learning.               ║
-║                                                              ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║   "Every great wizard was once a student who      ║
+║          refused to stop learning."                ║
+║                                                      ║
+║      ✦  Always building. Always learning.  ✦       ║
+╚══════════════════════════════════════════════════╝
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AyatErrahman&color=C0A060&style=flat-square&label=Wizards+who+visited)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0A060,50:4A3728,100:2C1810&height=120&section=footer" alt="Footer Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0A060,50:4A3728,100:2C1810&height=100&section=footer" alt="Footer Banner" width="100%"/>
 
 </div>
-
----
-
